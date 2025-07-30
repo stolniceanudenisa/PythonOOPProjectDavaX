@@ -146,7 +146,7 @@ All inputs are validated using Pydantic. Common error responses include:
 }
 ```
 
-````markdown
+
 
 ## Gradio Frontend (UI)
 
