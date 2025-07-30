@@ -1,0 +1,29 @@
+2025-07-30 11:27:17,942 [INFO] Saving operation to DB
+2025-07-30 11:27:17,943 [WARNING] Invalid input for factorial
+2025-07-30 11:27:17,943 [ERROR] Unhandled exception occurred
+2025-07-30 11:27:55,074 [INFO] Saved operation: power with inputs={'base': 2, 'exponent': 5} result=32
+2025-07-30 11:27:57,362 [INFO] Saved operation: power with inputs={'base': 2, 'exponent': 5} result=32
+2025-07-30 11:28:07,526 [INFO] Fetched all operations from DB
+2025-07-30 11:28:56,370 [INFO] Saving operation to DB
+2025-07-30 11:28:56,370 [WARNING] Invalid input for factorial
+2025-07-30 11:28:56,370 [ERROR] Unhandled exception occurred
+2025-07-30 11:29:03,725 [INFO] Saving operation to DB
+2025-07-30 11:29:03,726 [WARNING] Invalid input for factorial
+2025-07-30 11:29:03,726 [ERROR] Unhandled exception occurred
+2025-07-30 11:29:16,236 [INFO] Saving operation to DB
+2025-07-30 11:29:16,237 [WARNING] Invalid input for factorial
+2025-07-30 11:29:16,237 [ERROR] Unhandled exception occurred
+2025-07-30 11:29:34,511 [INFO] Saved operation: fibonacci with inputs={'n': 35} result=9227465
+2025-07-30 11:30:51,353 [INFO] Saving operation to DB
+2025-07-30 11:30:51,353 [WARNING] Invalid input for factorial
+2025-07-30 11:30:51,353 [ERROR] Unhandled exception occurred
+2025-07-30 11:30:57,571 [INFO] Saved operation: fibonacci with inputs={'n': 35} result=9227465
+2025-07-30 11:30:57,571 [INFO] Async task completed: fibonacci -> 9227465
+2025-07-30 11:32:26,963 [INFO] Saving operation to DB
+2025-07-30 11:32:26,963 [WARNING] Invalid input for factorial
+2025-07-30 11:32:26,963 [ERROR] Unhandled exception occurred
+2025-07-30 12:07:31,590 [INFO] Saved: fibonacci | {'n': 6} = 8
+2025-07-30 12:07:45,598 [INFO] Saved: power | {'base': 4, 'exponent': 4} = 256
+2025-07-30 12:08:02,806 [INFO] Saved: power | {'base': 4, 'exponent': 9} = 262144
+2025-07-30 12:08:28,053 [INFO] Saved: factorial | {'n': 6} = 720
+2025-07-30 12:08:44,560 [INFO] Saved: fibonacci | {'n': 12} = 144
